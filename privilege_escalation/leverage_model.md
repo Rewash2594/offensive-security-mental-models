@@ -102,6 +102,24 @@ If escalation increases instability, leverage was misunderstood.
 
 ---
 
+## Relationship to Post-Exploitation
+
+Privilege escalation defines the quality of post-exploitation.
+
+Clean escalation:
+- preserves trust relationships
+- enables quiet lateral options
+- reduces urgency after elevation
+
+Messy escalation forces post-exploitation to:
+- stabilize access
+- compensate for exposure
+- operate under time pressure
+
+Post-exploitation optionality is earned during escalation.
+
+---
+
 ## Final Note
 
 Privilege escalation is not luck.
