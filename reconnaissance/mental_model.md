@@ -97,3 +97,27 @@ If everything looks equally interesting, reconnaissance failed.
 
 Reconnaissance is a thinking discipline.
 Tools are optional. Reasoning is not.
+
+---
+
+## Relationship to Exploitation Decisions
+
+Reconnaissance directly constrains exploitation choices.
+
+Effective reconnaissance:
+- reduces the number of viable exploitation branches
+- clarifies acceptable risk thresholds
+- identifies where irreversible actions are justified
+
+Poor reconnaissance forces exploitation to compensate with:
+- retries
+- noise
+- guesswork
+
+When exploitation feels exploratory, reconnaissance was insufficient.
+
+A mature operator does not ask:
+"Which exploit should I try?"
+
+They ask:
+"Which decisions am I now justified in committing to?"
