@@ -91,12 +91,6 @@ Successful reconnaissance produces:
 
 If everything looks equally interesting, reconnaissance failed.
 
----
-
-## Final Note
-
-Reconnaissance is a thinking discipline.
-Tools are optional. Reasoning is not.
 
 ---
 
@@ -121,3 +115,11 @@ A mature operator does not ask:
 
 They ask:
 "Which decisions am I now justified in committing to?"
+
+---
+
+## Final Note
+
+Reconnaissance is a thinking discipline.
+Tools are optional. Reasoning is not.
+
