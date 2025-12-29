@@ -19,7 +19,7 @@ Thinking in feedback loops creates adaptability.
 
 ---
 
-## Why Phases Fail in Practice
+## Why Phase-Based Thinking Fails
 
 Phase-based thinking assumes:
 - linear progress
@@ -31,7 +31,7 @@ Real environments are:
 - reactive
 - partially observable
 
-Phases simplify planning but distort decision-making.
+Phases simplify reporting, not decision-making.
 
 ---
 
@@ -46,7 +46,7 @@ An engagement continuously cycles through:
 - Adjustment
 
 These elements are always present.
-Only their intensity changes over time.
+Only their emphasis changes over time.
 
 ---
 
@@ -54,7 +54,7 @@ Only their intensity changes over time.
 
 Every action must be justified by intent.
 
-Questions to continuously answer:
+Continuous questions:
 - Why am I doing this now?
 - What decision will this inform?
 - What changes if this succeeds or fails?
@@ -81,7 +81,7 @@ Balance is discipline.
 
 An engagement is successful not because:
 - all techniques were used
-- all phases were completed
+- all steps were completed
 
 But because:
 - decisions improved over time
@@ -110,6 +110,19 @@ A mature engagement produces:
 - controlled outcomes
 
 If actions cannot be explained, methodology failed.
+
+---
+
+## Relationship to the Mental Model System
+
+Methodology is the stabilizing layer of the system.
+
+It:
+- integrates reconnaissance, exploitation, and escalation
+- preserves optionality during post-exploitation
+- enables continuous correction under uncertainty
+
+Without methodology, mental models degrade into isolated insights.
 
 ---
 
