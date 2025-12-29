@@ -91,7 +91,6 @@ Successful reconnaissance produces:
 
 If everything looks equally interesting, reconnaissance failed.
 
-
 ---
 
 ## Relationship to Exploitation Decisions
@@ -122,4 +121,3 @@ They ask:
 
 Reconnaissance is a thinking discipline.
 Tools are optional. Reasoning is not.
-
